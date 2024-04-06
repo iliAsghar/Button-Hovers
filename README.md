@@ -7,7 +7,6 @@ This is a Simple Practice to design different **Button Hovers**.
 - [Overview](#overview)
   - [what's this about?](#about)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -21,10 +20,6 @@ this is a simple personal excercise to design different hover effects on buttons
 ### Screenshot
 
 ![Desktop-preview](./screenshots/Opera%20Snapshot_2024-04-06_101612_127.0.0.1.png)
-
-### Links
-
-- Live Site URL: [Live page](https://iliasghar.github.io/Blog-Preview-Card/)
 
 ## My process
 
